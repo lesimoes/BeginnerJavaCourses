@@ -1,3 +1,4 @@
+import java.util.Scanner;
 
 public class Hello {
 
@@ -46,7 +47,11 @@ public class Hello {
 		System.out.println((double) 4 / 3); //We can solve with cast operator
 		
 		
-		
+		Scanner sr = new Scanner(System.in);
+		int valueFromKeyboard = sr.nextInt();
+		System.out.print(valueFromKeyboard);
+
+		sr.close();
 	}
 	
 
