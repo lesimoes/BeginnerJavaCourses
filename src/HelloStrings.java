@@ -30,6 +30,23 @@ public class HelloStrings {
 		System.out.println(firstName.equals(anotherFirstName));
 		System.out.println(firstName.equalsIgnoreCase(anotherFirstName));
 
+		//Both are valid declarations		
+		int someOddsNumbers[] = {1, 3, 5, 7};
+		int[] moreOddsNumbers = {9, 11, 13, 15};
+		
+		
+		//Iterate over arrays
+		
+		//for loop
+		for (int i = 0 ; i < someOddsNumbers.length ; i ++) {
+			System.out.print(someOddsNumbers[i] + " ");
+		}
+		
+		System.out.println();
+		//for each loop
+		for (int oddNumber : moreOddsNumbers) {
+			System.out.print(oddNumber + " ");
+		}
 
 	}
 	
