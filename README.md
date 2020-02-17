@@ -1,28 +1,8 @@
-## Beginner Java Courses - Data Types ##
+#### Exercícios ####
 
+1- Faça um algoritmo onde o usuário informe os lados de 2 triangulos. Em seguinda o algoritmo irá informar a área dos triangulos e qual deles tem a maior área.
 
-
-![Data Types in Java](https://static.javatpoint.com/images/java-data-types.png)
-
-**Non Primitive Types**
-
-- Strings
-- Arrays
-- Classes
-
-
-
-	
-#### Let`s code ####
-
-1- Do a Java program to solve a quadratic equation with "Baskara Formula"... But, with classes!
-[Fórmula de Baskara](https://www.infoescola.com/matematica/formula-de-bhaskara/)
-
-
-#### One step further ####
-
-1- What is the benefit of a class/object?
-
+2- Analise sua resposta. É possível melhorar (refatorar) o código?
 
 
 	
